@@ -17,3 +17,21 @@
 - **F1**: Save current preset to `./save/preset_XXXX.milk`
 - **F2**: Asynchronously query AI to mutate the preset with music reactivity
 - **ESC**: Exit
+
+
+
+
+
+=========================================================================
+STEP 1 
+Dump a valide song.mp3 exe folder
+
+STEP 2
+edit add valid api.key   
+GEMINI_API_KEY   (create in google ai studio)
+GROK_API_KEU
+
+
+STEP 3   edit optimize ai prompt what you want ai do to this preset (max lent 500-1000 charactere)
+prompt.txt
+
