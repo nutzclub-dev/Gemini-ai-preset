@@ -29,7 +29,7 @@ Dump a valide song.mp3 exe folder
 STEP 2
 edit add valid api.key   
 GEMINI_API_KEY   (create in google ai studio)
-GROK_API_KEU
+GROK_API_KEY
 
 
 STEP 3   edit optimize ai prompt what you want ai do to this preset (max lent 500-1000 charactere)
