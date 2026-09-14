@@ -1,0 +1,6 @@
+E:\c-2026\PresetAi\Presetai\x64\Release\libcurl.dll
+E:\c-2026\PresetAi\Presetai\x64\Release\z.dll
+E:\c-2026\PresetAi\Presetai\x64\Release\projectM-4.dll
+E:\c-2026\PresetAi\Presetai\x64\Release\glew32.dll
+E:\c-2026\PresetAi\Presetai\x64\Release\SDL3.dll
+E:\c-2026\PresetAi\Presetai\Presetai\x64\Release\Presetai.vcxproj.Up2Date

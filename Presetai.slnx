@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Presetai/Presetai.vcxproj" Id="4ff5b768-3cf4-44f8-a5ea-a8b784659374" />
+</Solution>

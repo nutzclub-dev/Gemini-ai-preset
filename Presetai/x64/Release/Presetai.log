@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\c-2026\PresetAi\Presetai\miniaudio.h(80532,82): warning C4244: '=': conversion from 'ma_uint64' to 'ma_uint32', possible loss of data
+  (compiling source file '../main.cpp')
+  
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 2231 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Presetai.vcxproj -> E:\c-2026\PresetAi\Presetai\x64\Release\Presetai.exe
